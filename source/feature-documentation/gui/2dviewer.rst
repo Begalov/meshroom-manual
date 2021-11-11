@@ -18,6 +18,8 @@ Display Features
 
 Display an overlay showing the features used in the reconstruction.
 
+The three switch buttons with corresponding numbers are, in order from left to right, the number of extracted features, the number of matched features, and the number of features that have been reconstructed.
+
 Select Image Type
 +++++++++++++++++
 
